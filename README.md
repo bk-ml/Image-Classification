@@ -9,7 +9,7 @@ test folder and submission file format is not of your's need.
 The train folder has 5 folder of 5 different categories of animals for classification having images of the particular type of animal.
 
 
-# Note :--
+### Note :--
 In this i am not used any famous or fancy models to train the model.
 
 If anyone wants to give any kind of suggestion or having difficulity to understand any point, feel free to comment. I will be happy to have your thoughts on that..
