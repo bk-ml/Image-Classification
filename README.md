@@ -20,5 +20,3 @@ In this, i did'nt use any famous or fancy models to train the model.
 
 <!--- If anyone face any kind of difficultiy in loading the data, feel free to comment so that i can provide you the same.
 --->
-
-If anyone wants to give any kind of suggestion or having difficulity to understand any point, feel free to comment. I will be happy to have your thoughts on that..
